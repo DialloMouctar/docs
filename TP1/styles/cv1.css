@@ -1,0 +1,42 @@
+html {
+    background-color: black;
+}
+
+body {
+    margin-right: 5%;
+    margin-left: 5%;
+    background-color: white;
+}
+
+header {
+    background-color: indigo;
+    color: white;
+    text-align: center;
+}
+
+footer {
+    background-color: indigo;
+    color: white;
+
+}
+
+footer ul a {
+    color: white;
+}
+
+footer ul {
+    align-items: center;
+    display: flex;
+}
+
+footer ul li {
+    margin-left: 10%;
+}
+
+
+
+
+
+ul {
+    list-style: none;
+}
